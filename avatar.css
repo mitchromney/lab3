@@ -1,0 +1,31 @@
+.User-list {
+  list-style: none;
+}
+
+.Avatar {
+  text-align: center;  
+}
+
+h1 {
+  background-color: skyblue;
+  padding: 5px;
+  margin-left: 30%;
+  margin-right: 30%;
+  border: solid white 4px;
+}
+
+body {
+  text-align: center;
+  background-color: beige;
+}
+
+.Avatar img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.Avatar h4 {
+  text-transform: capitalize;
+  color: red;
+}
